@@ -396,9 +396,9 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 80vh;
-  background: local("/assets/img/3.PNG") top center;
-  background-size: cover;
+  height: 100%;
+  background: local("/assets/img/3.jpg") top center;
+  background-size: inherit;
   position: relative;
 }
 
