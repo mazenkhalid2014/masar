@@ -141,7 +141,7 @@
   // Init AOS
   $(window).on('load', function() {
     AOS.init({
-      duration: 1000,
+      duration: 100,
       once: true
     });
   });
